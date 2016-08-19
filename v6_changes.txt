@@ -1,0 +1,4 @@
+26 May 2015
+Simulation takes into account 1/2 uc instead 1/4 uc, therefore one does not grow TiSn layer on top of HfSn - this is probably forbidden from the chemical point of view. Ni layers should be always sandwiched between TiSn (HfSn) layers.
+
+one can simply go back to the previous verion of the program changing the parameter divide_uc and handles.divide_uc in files: SL_gui.m and SL_buffer_input.m
