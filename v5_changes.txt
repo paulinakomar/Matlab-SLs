@@ -1,0 +1,4 @@
+23 Jan 2015
+-interface roughness, called intermixing
+-angle dependent scattering factors
+-Gaussian distribution of the unit cell size and the layers thickness
