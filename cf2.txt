@@ -1,0 +1,17 @@
+system	2
+2theta_002_from	25
+2theta_002_step	0.01
+2theta_002_to	33
+2theta_004_from	55
+2theta_004_step	0.01
+2theta_004_to	68
+layerA_latticeconstant_A	5.94
+layerB_latticeconstant_A	6.12
+periodicArrangement	1
+layerA_thickness_uc	15.75
+layerB_thickness_uc	1
+numberOfbilayers	48
+non-periodicArrangement_file	
+numberOfUnitCellsOfIntermixing	1.5
+VanadiumLayer_latticeconstant_A	
+VanadiumLayer_thickness_uc	
